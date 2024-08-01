@@ -1,0 +1,12 @@
+```txt
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env
+.venv
+env/
+venv/
